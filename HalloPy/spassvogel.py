@@ -31,7 +31,7 @@ def spassbird():
     if weiter == "JA":
         spassbird()
     else:
-        "Tschoe mit oe"
+        print("Tschoe mit oe")
         exit()
 spassbird()
     
